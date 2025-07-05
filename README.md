@@ -1,4 +1,35 @@
 
+<div align="right">
+  <details>
+    <summary >🌐 Language</summary>
+    <div>
+      <div align="right">
+        <p><a href="https://openaitx.github.io/view.html?user=Tevrinodt6aXTD&project=Mev-Trading-Bot&lang=en">English</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=Tevrinodt6aXTD&project=Mev-Trading-Bot&lang=zh-CN">简体中文</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=Tevrinodt6aXTD&project=Mev-Trading-Bot&lang=zh-TW">繁體中文</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=Tevrinodt6aXTD&project=Mev-Trading-Bot&lang=ja">日本語</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=Tevrinodt6aXTD&project=Mev-Trading-Bot&lang=ko">한국어</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=Tevrinodt6aXTD&project=Mev-Trading-Bot&lang=hi">हिन्दी</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=Tevrinodt6aXTD&project=Mev-Trading-Bot&lang=th">ไทย</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=Tevrinodt6aXTD&project=Mev-Trading-Bot&lang=fr">Français</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=Tevrinodt6aXTD&project=Mev-Trading-Bot&lang=de">Deutsch</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=Tevrinodt6aXTD&project=Mev-Trading-Bot&lang=es">Español</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=Tevrinodt6aXTD&project=Mev-Trading-Bot&lang=it">Itapano</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=Tevrinodt6aXTD&project=Mev-Trading-Bot&lang=ru">Русский</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=Tevrinodt6aXTD&project=Mev-Trading-Bot&lang=pt">Português</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=Tevrinodt6aXTD&project=Mev-Trading-Bot&lang=nl">Nederlands</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=Tevrinodt6aXTD&project=Mev-Trading-Bot&lang=pl">Polski</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=Tevrinodt6aXTD&project=Mev-Trading-Bot&lang=ar">العربية</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=Tevrinodt6aXTD&project=Mev-Trading-Bot&lang=fa">فارسی</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=Tevrinodt6aXTD&project=Mev-Trading-Bot&lang=tr">Türkçe</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=Tevrinodt6aXTD&project=Mev-Trading-Bot&lang=vi">Tiếng Việt</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=Tevrinodt6aXTD&project=Mev-Trading-Bot&lang=id">Bahasa Indonesia</a></p>
+      </div>
+    </div>
+  </details>
+</div>
+
+
 # My Local Trading Bot 🤖
 
 ![1](https://i.postimg.cc/B6c2txbp/Chat-GPT-Image-30-2025-18-19-40.png)
