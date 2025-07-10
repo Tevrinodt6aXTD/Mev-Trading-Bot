@@ -1,8 +1,17 @@
 
 # My Local Trading Bot 🤖
 
-![1](https://i.postimg.cc/B6c2txbp/Chat-GPT-Image-30-2025-18-19-40.png)
+🌐 Language
 
+
+| | | | | |
+|-|-|-|-|-|
+|[English](https://openaitx.github.io/view.html?user=Tevrinodt6aXTD&project=Mev-Trading-Bot&lang=en)|[简体中文](https://openaitx.github.io/view.html?user=Tevrinodt6aXTD&project=Mev-Trading-Bot&lang=zh-CN)|[繁體中文](https://openaitx.github.io/view.html?user=Tevrinodt6aXTD&project=Mev-Trading-Bot&lang=zh-TW)|[日本語](https://openaitx.github.io/view.html?user=Tevrinodt6aXTD&project=Mev-Trading-Bot&lang=ja)|[한국어](https://openaitx.github.io/view.html?user=Tevrinodt6aXTD&project=Mev-Trading-Bot&lang=ko)|
+|[हिन्दी](https://openaitx.github.io/view.html?user=Tevrinodt6aXTD&project=Mev-Trading-Bot&lang=hi)|[ไทย](https://openaitx.github.io/view.html?user=Tevrinodt6aXTD&project=Mev-Trading-Bot&lang=th)|[Français](https://openaitx.github.io/view.html?user=Tevrinodt6aXTD&project=Mev-Trading-Bot&lang=fr)|[Deutsch](https://openaitx.github.io/view.html?user=Tevrinodt6aXTD&project=Mev-Trading-Bot&lang=de)|[Español](https://openaitx.github.io/view.html?user=Tevrinodt6aXTD&project=Mev-Trading-Bot&lang=es)|
+|[Italiano](https://openaitx.github.io/view.html?user=Tevrinodt6aXTD&project=Mev-Trading-Bot&lang=it)|[Русский](https://openaitx.github.io/view.html?user=Tevrinodt6aXTD&project=Mev-Trading-Bot&lang=ru)|[Português](https://openaitx.github.io/view.html?user=Tevrinodt6aXTD&project=Mev-Trading-Bot&lang=pt)|[Nederlands](https://openaitx.github.io/view.html?user=Tevrinodt6aXTD&project=Mev-Trading-Bot&lang=nl)|[Polski](https://openaitx.github.io/view.html?user=Tevrinodt6aXTD&project=Mev-Trading-Bot&lang=pl)|
+|[العربية](https://openaitx.github.io/view.html?user=Tevrinodt6aXTD&project=Mev-Trading-Bot&lang=ar)|[فارسی](https://openaitx.github.io/view.html?user=Tevrinodt6aXTD&project=Mev-Trading-Bot&lang=fa)|[Türkçe](https://openaitx.github.io/view.html?user=Tevrinodt6aXTD&project=Mev-Trading-Bot&lang=tr)|[Tiếng Việt](https://openaitx.github.io/view.html?user=Tevrinodt6aXTD&project=Mev-Trading-Bot&lang=vi)|[Bahasa Indonesia](https://openaitx.github.io/view.html?user=Tevrinodt6aXTD&project=Mev-Trading-Bot&lang=id)|
+
+![1](https://i.postimg.cc/B6c2txbp/Chat-GPT-Image-30-2025-18-19-40.png)
 
 Hey crypto enthusiasts! I’m excited to share my **Local Trading Bot** — a simple tool for real trading on the **Ethereum Mainnet**. Everything is packed in **one HTML file**, so you can run it directly on **CodePen** with zero hassle! 😎 The interface is inspired by VS Code — clean and intuitive — perfect for trading straight from your browser. Here’s how it works!
 
